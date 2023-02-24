@@ -1,0 +1,7 @@
+Apple:Apfel
+Banana:Banane
+Cat:Katze
+Dog:Hund
+House:Haus
+Milk:Milch
+Zebra:Zebra
